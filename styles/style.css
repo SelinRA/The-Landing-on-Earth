@@ -185,6 +185,10 @@ body {
         grid-gap: 40px;
     }
 
+    .logo {
+        width: 20%;
+    }
+
     #api2 {
         height: 100px;
     }
